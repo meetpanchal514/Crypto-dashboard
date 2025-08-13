@@ -1,2 +1,2 @@
 # Crypto-dashboard
-Crypto currency dashboard
+Cryptocurrency dashboard

@@ -3,7 +3,7 @@ services:
     build: ./backend
     container_name: backend
     ports:
-      - '5001:5000'  # Changed backend port to 5001
+      - '5001:5000'  # Map host port 5001 to container port 5000
     volumes:
       - ./backend:/app
       - /app/node_modules
